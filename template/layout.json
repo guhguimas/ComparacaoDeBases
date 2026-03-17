@@ -1,0 +1,31 @@
+{
+    "colunas": [
+        "N CONTRATO",
+        "CCB INVESTIDOR",
+        "CPF",
+        "Matricula",
+        "NOME",
+        "PRESTAÇÃO",
+        "R$ PRINCIPAL",
+        "VALOR CESSÃO",
+        "TAXA CESSÃO",
+        "PRAZO",
+        "OPERACAO",
+        "FUNDO",
+        "CONVENIO",
+        "DATA CESSÃO",
+        "DATA1º VENC CESSAO",
+        "DATA averb",
+        "DATA1º VENC averb",
+        "BANCO",
+        "ORIGEM",
+        "TIPO OPERAÇÃO",
+        "ESTEIRA",
+        "COD FUNDO",
+        "COD CONVENIO",
+        "COD TIPO DE OPERAÇÃO",
+        "COD BANCO",
+        "ORBITAL",
+        "STATUS"
+    ]
+}
